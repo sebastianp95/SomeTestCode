@@ -1,0 +1,9 @@
+{"make":"Tesla","model":"Model X","year":2018,"fourWheel":true,"price":96000.0,"mpg":0}
+{"make":"Lamborghini","model":"Urus","year":2019,"fourWheel":true,"price":200000.0,"mpg":0}
+{"make":"Ferrari","model":"488 GTB","year":2016,"fourWheel":false,"price":245000.0,"mpg":0}
+{"make":"Bugatti","model":"Chiron","year":2017,"fourWheel":false,"price":3000000.0,"mpg":0}
+{"make":"Porsche","model":"911","year":2017,"fourWheel":false,"price":90000.0,"mpg":0}
+{"make":"Bentley","model":"Mulsanne","year":2017,"fourWheel":true,"price":360000.0,"mpg":0}
+{"make":"Rolls-Royce","model":"Ghost","year":2017,"fourWheel":false,"price":300000.0,"mpg":0}
+{"make":"Maserati","model":"Quattroporte","year":2017,"fourWheel":false,"price":100000.0,"mpg":0}
+{"make":"Genesis","model":"G90","year":2017,"fourWheel":true,"price":70000.0,"mpg":0}
